@@ -4,7 +4,9 @@ Simple Screen for a Weather app using swift UI.
 
 
 =>ScreenShot:
-![Uploading Simulator Screen Shot - iPhone 12 Pro Max - 2023-09-20 at 01.26.38.png…]()
+
+
+![Simulator Screen Shot - iPhone 12 Pro Max - 2023-09-20 at 01 26 38](https://github.com/Ahmed-Hamam94/SwiftUI-Weather/assets/107306578/39cc97b7-8e2f-49f2-9df9-48171dcd47d9)
 
 
 
