@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+struct WeatherDayModel {
+    var dayOfWeek: String
+    var imageName: String
+    var temperature: Int
+}
