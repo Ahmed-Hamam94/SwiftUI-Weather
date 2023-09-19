@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F70EA1812AB905CA00130F72 /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70EA1802AB905CA00130F72 /* WeatherButton.swift */; };
+		F70EA1832AB9240600130F72 /* WeatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70EA1822AB9240600130F72 /* WeatherModel.swift */; };
 		F74087E82AB79EDA00B02EDB /* SwiftUI_WeatherApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F74087E72AB79EDA00B02EDB /* SwiftUI_WeatherApp.swift */; };
 		F74087EA2AB79EDA00B02EDB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F74087E92AB79EDA00B02EDB /* ContentView.swift */; };
 		F74087EC2AB79EDB00B02EDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F74087EB2AB79EDB00B02EDB /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F70EA1802AB905CA00130F72 /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
+		F70EA1822AB9240600130F72 /* WeatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherModel.swift; sourceTree = "<group>"; };
 		F74087E42AB79EDA00B02EDB /* SwiftUI-Weather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Weather.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F74087E72AB79EDA00B02EDB /* SwiftUI_WeatherApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_WeatherApp.swift; sourceTree = "<group>"; };
 		F74087E92AB79EDA00B02EDB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +59,8 @@
 				F74087E92AB79EDA00B02EDB /* ContentView.swift */,
 				F74087EB2AB79EDB00B02EDB /* Assets.xcassets */,
 				F74087ED2AB79EDB00B02EDB /* Preview Content */,
+				F70EA1802AB905CA00130F72 /* WeatherButton.swift */,
+				F70EA1822AB9240600130F72 /* WeatherModel.swift */,
 			);
 			path = "SwiftUI-Weather";
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			files = (
 				F74087EA2AB79EDA00B02EDB /* ContentView.swift in Sources */,
 				F74087E82AB79EDA00B02EDB /* SwiftUI_WeatherApp.swift in Sources */,
+				F70EA1832AB9240600130F72 /* WeatherModel.swift in Sources */,
+				F70EA1812AB905CA00130F72 /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
